@@ -14,7 +14,7 @@ Para isso, utiliza-se a fórmula seguinte:
 
 $$ P = Po \* x ^\frac{t}{7} $$
 
-<!-- ![P = Po _ x ^\frac{t}{7}](https://i.imgur.com/xT7rwGh.png) -->
+<!-- ![P = Po _ x ^\frac{t}{7}] -->
 
 Ou seja, se:
 
