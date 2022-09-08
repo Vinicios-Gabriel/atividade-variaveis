@@ -1,5 +1,5 @@
 let m = 90_000
-//ola
+
 let c = 60_000
 
 let n = 24
